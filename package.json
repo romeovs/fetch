@@ -1,0 +1,14 @@
+{
+  "name": "fetch-all",
+  "version": "1.0.0",
+  "description": "Fetches all data based on react-router state.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romeo Van Snick <romeovs@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "all": "git://github.com/romeovs/all"
+  }
+}
