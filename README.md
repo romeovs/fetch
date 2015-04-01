@@ -10,7 +10,7 @@ You can use it inside of `Router.run` to fetch the data before doing the
 actual rendering:
 
 ```js
-import React  from 'react';
+import React  from 'react'
 import Router from 'react-router'
 import fetch  from 'fetch'
 
