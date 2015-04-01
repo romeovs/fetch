@@ -46,6 +46,15 @@ To install `fetch`:
 npm i --save romeovs/fetch
 ```
 
+The module is written in ES6-compliant syntax that needs to
+be transpiled, you need to have [`babel`](https://babeljs.io) installed
+on your system before installing it.  If you don't have it, the above command
+will fail.  To fix this, do:
+
+```sh
+npm install --global babel
+```
+
 ## Todo
   - write tests
   - add session/authentication support?
