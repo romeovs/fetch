@@ -2,8 +2,10 @@
   "name": "fetch-all",
   "version": "1.0.0",
   "description": "Fetches all data based on react-router state.",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
+    "compile": "babel index.js -o build.js",
+    "postinstall": "npm run compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Romeo Van Snick <romeovs@gmail.com>",
