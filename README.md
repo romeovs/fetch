@@ -1,9 +1,9 @@
-# fetch-all
+# fetch
 Fetches all data necessary for the currently active route handlers.
 
 ## Usage
 When using `react-router`, it is often necessary to fetch some data
-before rendering the app at a specific path.  `fetch-all` takes care
+before rendering the app at a specific path.  `fetch` takes care
 of exactly this.
 
 You can use it inside of `Router.run` to fetch the data before doing the
@@ -12,7 +12,7 @@ actual rendering:
 ```js
 import React  from 'react';
 import Router from 'react-router'
-import fetch  from 'fetch-all'
+import fetch  from 'fetch'
 
 import routes from './routes'
 
@@ -22,7 +22,7 @@ Router.run(routes, Router.HistoryLocation, async function(Handler, state) {
 });
 ```
 
-`fetch-all` goes trough all the currently activated routes and checks to
+`fetch` goes trough all the currently activated routes and checks to
 see if their handler has got a `fetchData` function set.
 
 For instance:
@@ -40,8 +40,8 @@ var Thing = React.createElement({
 ```
 
 ## Installation
-To install `fetch-all`:
+To install `fetch`:
 
 ```sh
-npm i --save romeovs/fetch-all
+npm i --save romeovs/fetch
 ```
