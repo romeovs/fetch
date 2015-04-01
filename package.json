@@ -16,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "all": "git://github.com/romeovs/all"
+  },
+  "devDependencies": {
+    "babel": "^4.7.16"
   }
 }
