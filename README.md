@@ -45,3 +45,7 @@ To install `fetch`:
 ```sh
 npm i --save romeovs/fetch
 ```
+
+## Todo
+  - write tests
+  - add session/authentication support?
