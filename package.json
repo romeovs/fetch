@@ -2,6 +2,10 @@
   "name": "fetch-all",
   "version": "1.0.0",
   "description": "Fetches all data based on react-router state.",
+  "keywords": [
+    "react",
+    "react-router"
+  ],
   "main": "build.js",
   "scripts": {
     "compile": "babel index.js -o build.js",
