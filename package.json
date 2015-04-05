@@ -1,5 +1,5 @@
 {
-  "name": "fetch-all",
+  "name": "fetch",
   "version": "1.0.0",
   "description": "Fetches all data based on react-router state.",
   "keywords": [
