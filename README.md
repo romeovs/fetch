@@ -1,4 +1,7 @@
 # fetch
+[![Join the chat at https://gitter.im/romeovs/config](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/romeovs/fetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 Fetches all data necessary for the currently active route handlers.
 
 ## Usage
