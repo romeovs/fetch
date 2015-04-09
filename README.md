@@ -1,6 +1,6 @@
 # fetch
 [![Dependencies](https://david-dm.org/romeovs/fetch.svg)](https://david-dm.org/romeovs/fetch)
-[![devDependencies](https://david-dm.org/romeovs/fetch/dev-status.svg)](https://david-dm.org/romeovs/fetch)
+[![devDependencies](https://david-dm.org/romeovs/fetch/dev-status.svg)](https://david-dm.org/romeovs/fetch#info=devDependencies)
 [![Join the chat at https://gitter.im/romeovs/config](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/romeovs/fetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
