@@ -63,3 +63,6 @@ npm install --global babel
 ## Todo
   - write tests
   - add session/authentication support?
+
+### License
+This code is licensed under the [ISC license](./LICENSE)
