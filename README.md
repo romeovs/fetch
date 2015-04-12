@@ -1,8 +1,8 @@
 # fetch
-[![Dependencies](https://david-dm.org/romeovs/fetch.svg)](https://david-dm.org/romeovs/fetch)
-[![devDependencies](https://david-dm.org/romeovs/fetch/dev-status.svg)](https://david-dm.org/romeovs/fetch#info=devDependencies)
-[![Join the chat at https://gitter.im/romeovs/config](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/romeovs/fetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Dependencies](https://img.shields.io/david/romeovs/fetch.svg?style=flat-square)][david]
+[![devDependencies](https://img.shields.io/david/dev/romeovs/fetch.svg?style=flat-square)][david-dev]
+[![license](https://img.shields.io/badge/license-ISC-373737.svg?style=flat-square)][license]
+[![gitter](https://img.shields.io/badge/GITTER-join%20chat%20→-00d86e.svg?style=flat-square)][gitter]
 
 Fetches all data necessary for the currently active route handlers.
 
@@ -65,4 +65,9 @@ npm install --global babel
   - add session/authentication support?
 
 ### License
-This code is licensed under the [ISC license](./LICENSE)
+This code is licensed under the [ISC license][license]
+
+[david]:     https://david-dm.org/romeovs/fetch#info=dependencies
+[david-dev]: https://david-dm.org/romeovs/fetch#info=devDependencies
+[gitter]:    https://gitter.im/romeovs/fetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[license]:   ./LICENSE
