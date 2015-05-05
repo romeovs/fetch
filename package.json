@@ -15,7 +15,8 @@
   "author": "Romeo Van Snick <romeovs@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "all": "git://github.com/romeovs/all"
+    "all": "git://github.com/romeovs/all",
+    "co": "^4.5.4"
   },
   "devDependencies": {
     "babel": "^5.0.12"
