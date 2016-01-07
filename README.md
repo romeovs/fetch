@@ -4,6 +4,9 @@
 [![license](https://img.shields.io/badge/license-ISC-373737.svg?style=flat-square)][license]
 [![gitter](https://img.shields.io/badge/GITTER-join%20chat%20→-00d86e.svg?style=flat-square)][gitter]
 
+*Deprecated: The `react-router` v1.x makes this obsolete, I will not maintain
+this anymore.*
+
 Fetches all data necessary for the currently active route handlers.
 
 ## Usage
